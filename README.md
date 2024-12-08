@@ -5,7 +5,4 @@
 - 📫 You can email me @ davidmkilgallon@gmail.com
 - ⚡ Fun fact: I began coding at 10 by reverse engineering web pages
 
-<!---
-Dave-MK/Dave-MK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dave-mk=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
