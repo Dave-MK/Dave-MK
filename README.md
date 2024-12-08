@@ -5,4 +5,4 @@
 - 📫 You can email me @ davidmkilgallon@gmail.com
 - ⚡ Fun fact: I began coding at 10 by reverse engineering web pages
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-mk?theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-mk)](https://github.com/anuraghazra/github-readme-stats)
