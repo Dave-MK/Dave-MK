@@ -37,19 +37,18 @@ I'm always learning and looking to collaborate on cool web projects.
 
 Here's what I'm focused on right now and what's coming up:
 
-#### âœ… Currently Learning
+#### 📖 Currently Learning
 - React Router & Component Architecture
 - State Management (Context API, Redux basics)
 - Form handling with validation (Formik, Yup)
 - Tailwind CSS advanced layouts
 
-#### â­ï¸ Upcoming
+#### ⏳ Upcoming
 - TypeScript for React
 - Unit Testing with Jest & React Testing Library
-- Building a headless CMS blog (e.g., with Sanity or Strapi)
 - Accessibility (ARIA, WCAG)
 
-#### ðŸŽ¯ Long-Term Goals
+#### 💡 Long-Term Goals
 - Build a full-stack app (React + Django REST)
 - Contribute to open source
 - Master frontend performance & optimization
@@ -85,7 +84,7 @@ Here's what I'm focused on right now and what's coming up:
 
 ---
 
-### âœ¨ Quote of the Day
+### 💬 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the day">
@@ -93,7 +92,7 @@ Here's what I'm focused on right now and what's coming up:
 
 ---
 
-### Let's Connect
+### 🗣️ Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/Dave-MK](https://linkedin.com/in/Dave-MK)
 - **Email:** davidmkilgallon@gmail.com
