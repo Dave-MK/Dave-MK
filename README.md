@@ -8,8 +8,7 @@
 
 ### About Me
 
-I'm a passionate **front-end web developer** working toward building engaging, accessible, and user-friendly web applications.  
-Currently refining my skills in:
+I'm a passionate **front-end web developer** working toward building engaging, accessible, and user-friendly web applications. Currently refining my skills in:
 
 - **React & Modern JavaScript (ES6+)**
 - **HTML5, CSS3, SCSS**
