@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi there, I'm Dave</strong></h1>
+<h1 align="center"><strong>Hi there, I'm Dave❕</strong></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;React+%2B+JavaScript+Enthusiast;UI%2FUX+Learner;Open+Source+Contributor" alt="Typing SVG">
